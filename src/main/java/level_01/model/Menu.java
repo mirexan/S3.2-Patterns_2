@@ -12,4 +12,16 @@ public class Menu {
 		this.dessert = dessert;
 		this.drink = drink;
 	}
+	public Dish getEntrant() {
+		return this.entrant;
+	}
+	public Dish getMainCourse() {
+		return this.mainCourse;
+	}
+	public Dish getDessert() {
+		return this.dessert;
+	}
+	public String getDrink() {
+		return this.drink;
+	}
 }

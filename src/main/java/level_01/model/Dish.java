@@ -10,6 +10,23 @@ public class Dish {
 		this.vegan = false;
 		this.glutenFree = false;
 	}
+
+	public String getName() {
+		return this.name;
+	}
+
+	public String getSuplement() {
+		return this.suplement;
+	}
+
+	public boolean isVegan() {
+		return this.vegan;
+	}
+
+	public boolean isGlutenFree() {
+		return this.glutenFree;
+	}
+
 	public void setVegan(boolean vegan) {
 		this.vegan = vegan;
 	}
