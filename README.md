@@ -164,3 +164,4 @@ This project is verified using unit tests. To run the tests:
 1.  Ensure all dependencies are installed.
 2.  Run the test suite from your IDE (e.g., IntelliJ, Eclipse) or via the command line:
 	`mvn test`
+<img width="1171" height="781" alt="image" src="https://github.com/user-attachments/assets/b5a7b724-4f89-45bc-be2a-2953af6f5f8d" />
